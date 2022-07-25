@@ -1,9 +1,3 @@
-/*
-Name: Usman Zaheer
-Class: CIS 2520 (Dr. Stefan Kremer)
-This program should sufficently be able to read from and print all classes within the given cmd line arguments.
-*/
-
 #include "a6.h"
 
 int main(int argc, char *argv[]) {
